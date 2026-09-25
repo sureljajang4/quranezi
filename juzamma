@@ -1,0 +1,20 @@
+{
+  "name": "Catatan Hafalan Quran",
+  "short_name": "Quran Ezi",
+  "start_url": "https://quranezi.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff5722",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZe0aI26fjPhBxXn0jwuPx3WwhjX_NEZIQXANneUkJylS4YF8HIOrI3tKLh7OZhtr2US_MnzfpfIPHF9VnpS_xEgbsAh6cliak4gI2iq0xjhSr0gcN9G9NHaQp_1DeXmf5gY4kXcv6CA-r4npPio5ZYy8jUBWtVzHjnq5M95VcpWT-8veSWr43ZMRSeIyw/s500/ezi192-30kb.jpeg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2WmoT99OYauovJ00_R2284FOk_u7Q7Me3eEE1RBbRy3C1yyTzGROiJ7xSo-I6hK0U8YyBVvinQPKgvJlp508F44Us65NUUXLKqaXgsuwfok472MwPw_o8bevMbxZqsw1Ls8W0Rd_dBEXgfnlowX0J2FHeI58qvkgB2Pk53GGB834wxCmXhWxbLv_tNcjW/s500/ezi512-30kb.jpeg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
